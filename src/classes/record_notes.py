@@ -1,4 +1,4 @@
-from src.abstract_classes.notes_data import NotesData
+from abstract_classes.notes_data import NotesData
 
 class RecordNotes(NotesData):
     def __init__(self, title, description, tags=None):

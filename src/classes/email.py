@@ -1,5 +1,5 @@
 import re
-from src.classes.field import Field
+from classes.field import Field
 
 
 class Email(Field):

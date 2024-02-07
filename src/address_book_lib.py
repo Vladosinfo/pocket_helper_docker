@@ -1,5 +1,5 @@
 from collections import UserDict
-from src.classes.record import Record
+from classes.record import Record
 
 
 class AddressBook(UserDict):
